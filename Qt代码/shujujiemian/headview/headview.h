@@ -1,12 +1,3 @@
-/******************************************************************
-Copyright © Deng Zhimao Co., Ltd. 1990-2021. All rights reserved.
-* @projectName   headview
-* @brief         headview.h
-* @author        Deng Zhimao
-* @email         1252699831@qq.com
-* @net           www.openedv.com
-* @date          2021-05-22
-*******************************************************************/
 #ifndef HEADVIEW_H
 #define HEADVIEW_H
 
