@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "is1c102_sht20.h": "c",
+        "math.h": "c",
+        "ls1c103_map.h": "c",
+        "stdlib.h": "c",
+        "ls1c102_i2c.h": "c",
+        "esp8266.h": "c",
+        "queue.h": "c",
+        "ls1x_gpio.h": "c",
+        "config.h": "c"
+    }
+}

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>icons/qie(1).png</file>
+        <file>icons/cangkuer.png</file>
+        <file>icons/cangkuyi.png</file>
+        <file>icons/cangkusan.png</file>
+    </qresource>
+</RCC>
